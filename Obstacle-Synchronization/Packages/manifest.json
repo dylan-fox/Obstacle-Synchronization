@@ -8,6 +8,7 @@
         "com.microsoft.spatialaudio"
       ]
     }
+
   ],
   "dependencies": {
     "com.microsoft.mixedreality.toolkit.examples": "2.5.3",
